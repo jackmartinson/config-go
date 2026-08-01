@@ -1,2 +1,4 @@
-# config-go
+# Config Go
+
 Read environmental parameter values in Go.
+
